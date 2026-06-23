@@ -23,7 +23,7 @@ Co-located with IEEE PerCom 2027.
 6. The website should appear at:
 
 ```text
-https://dp457/sremuav.github.io/2027/
+https://dp457.github.io/sremuav2027
 ```
 
 ## Items to update later
