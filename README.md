@@ -2,7 +2,7 @@
 
 This is a GitHub Pages-ready website for:
 
-**1st International Workshop on Security and Resilience of Multi-UAV Systems (SReMUAV 2027)**  
+**International Workshop on Security and Resilience of Multi-UAV Systems (SReMUAV 2027)**  
 Co-located with IEEE PerCom 2027.
 
 ## Files
