@@ -59,6 +59,16 @@ a { color: var(--blue); }
   color: #b8dcff;
 }
 
+.eyebrow a {
+  color: #eaf3ff;
+  text-decoration: none;
+}
+
+.eyebrow a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 .hero h1 {
   max-width: 950px;
   font-size: clamp(2.2rem, 5vw, 4.6rem);
